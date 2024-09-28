@@ -1,0 +1,5 @@
+C001, Mountain_Bike
+C002, Road_Bike
+C003, Hybrid_Bike
+C004, Electric_Bike
+C005, BMX
